@@ -1,0 +1,11 @@
+Sr no.,PrvLatitude,PrvLongitude,PrvAddress1,IsVerified,Unnamed: 5,Unnamed: 6,ReverseGeocodedAddress,RoundTripLatitude,RoundTripLongitude,DistanceFromOriginalMeters
+1,19.0607737,72.9239859,"plot no 32 baiganwad, plot no 32 baiganwad, plot no 32 baiganwad, 400043",N,,,"Road 8, Shivaji Nagar, M/E Ward, Zone 5, Mumbai Suburban, Maharashtra, 400043, India",19.0636045,72.9252592,340.8059171017961
+2,19.0736685140331,72.8687473895693,"KURLA LBS, , , 400070",N,,,"Santa Cruz – Chembur Link Road, Vidya Nagari, H/E Ward, Zone 3, Mumbai Suburban, Maharashtra, 400098, India",19.0744736,72.8605809,864.0927078224405
+3,19.0460937609896,72.9099294170737,"CHEMBURE CAMP, , , 400082",N,,,"State Bank of India, Sion Panvel Highway, Shivneri Nagar, M/E Ward, Zone 5, Mumbai Suburban, Maharashtra, 400088, India",19.0460083,72.9098852,10.5429299882173
+4,19.0508048,72.9042676," Atur Park, Basant Garden,, Chembur, Mumbai,, , 400071",Y,,,"Sion Panvel Highway, Maitri Park, M/W Ward, Zone 5, Mumbai Suburban, Maharashtra, 400089, India",19.0498649,72.9051688,140.79368647348002
+5,19.0488479705527,72.9065413679928,"MAITRY PARK, S.T.DEPOT, , 400071",N,,,"Msrtc Bus Stop Chembur maitri park, Road Number 5, Maitri Park, M/W Ward, Zone 5, Mumbai Suburban, Maharashtra, 400089, India",19.0489792,72.9063884,21.685709523211685
+6,19.0829897,72.906953,"TILAK ROAD, OPP BIKAJI, GHATKOPAR(E), 400077",Y,,,"Hingwala Lane, Saibaba Nagar, N Ward, Zone 6, Mumbai Suburban, Maharashtra, 400077, India",19.0829877,72.9070549,10.726210433246887
+7,19.0666025276589,72.8794845471038,"OPP.PHOENIX MALL, L.B.S.MARG, KURLA(W), , 400070",N,,,"Naware Baug Jagruti Nagar, L Ward, Zone 5, Mumbai Suburban, Maharashtra, 400024, India",19.0656,72.8819,277.39222618500054
+8,19.0777744,72.9089494,"90FEET ROAD, GHATKOPAR(E), , 400073",N,,,"Garodia Nagar, N Ward, Zone 6, Mumbai Suburban, Maharashtra, 400077, India",19.0741334,72.9085221,405.5343215220175
+9,19.077876,72.9090214,"HING WALA LANE, GHATKOPAR(E), , 400071",N,,,"Garodia Nagar, N Ward, Zone 6, Mumbai Suburban, Maharashtra, 400077, India",19.0741334,72.9085221,417.5989422514761
+10,19.1114996,72.9279308,"STATION ROAD, VIkHROLI(west), STATION ROAD, 400083",Y,,,"Hariyali, Vikhroli West, Zone 6, Mumbai Suburban, Maharashtra, 400059, India",19.1136865,72.929775,310.2504734114014
